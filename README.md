@@ -1,6 +1,6 @@
 ![logo](https://te.legra.ph/file/3466dcd724ba21450e458.jpg)
 <h1 style="color:Dogerblue;" align="center">👨‍💻𝗦ʜᴀᴅᴏᴡ🧩</h1>
-<h3 style="color:Tomato;" align="center">𝗜'ᴍ ᴀ 𝗖ᴏᴍᴘᴜᴛᴇʀ 𝗦ᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ ғʀᴏᴍ 𝗜𝗜𝗧-𝗕ᴏᴍʙᴀʏ..!🤖💫</h3>
+<h3 style="color:Tomato;" align="center">A 𝗖ᴏᴍᴘᴜᴛᴇʀ 𝗦ᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ ғʀᴏᴍ 𝗜𝗜𝗧-𝗕ᴏᴍʙᴀʏ..!🤖💫</h3>
 
 <img align="right" alt="coding" width="200" height="145" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif">
 </p>
