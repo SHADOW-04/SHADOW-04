@@ -42,8 +42,8 @@
 <h1>𝗖ᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h1>
 
 <h2 align="left">𝗣ᴇʀsᴏɴᴀʟ 𝗖ᴏɴᴛᴀᴄᴛ:</h2>
-<a href="https://instagram.com/arsenic.xd"> <img src="./Jod/1384063.png" width="50px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/DARK_DEVIL_OP"> <img src="./Jod/2111646.png" width="50px" /></a><br>
+<a href="https://instagram.com/arsenic_.uwu"> <img src="./Jod/1384063.png" width="50px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/R3X_A1PH4"> <img src="./Jod/2111646.png" width="50px" /></a><br>
 
 
 
