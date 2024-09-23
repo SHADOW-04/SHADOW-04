@@ -1,6 +1,6 @@
 ![logo](https://te.legra.ph/file/3466dcd724ba21450e458.jpg)
 <h1 style="color:Dogerblue;" align="center">- 𝚲 𝐋 𝐏 𝚮 𝚲 -</h1>
-<h3 style="color:Tomato;" align="center">Web & App Development Enthusiast 𝖿𝗋𝗈𝗆 𝖨𝗇𝖽𝗂𝖺 🇮🇳</h3>
+<h3 style="color:Tomato;" align="center">Web & App Development Enthusiast | 𝖨𝗇𝖽𝗂𝖺 🇮🇳</h3>
 
 ---
 
@@ -13,11 +13,11 @@
 
 <h1></h1>
 
-- 🌱 **𝖬𝖺𝗌𝗍𝖾𝗋𝗂𝖾𝗌 𝗂𝗇 -** **𝖤𝗍𝗁𝗂𝖼𝖺𝗅 𝖧𝖺𝖼𝗄𝗂𝗇𝗀,𝖶𝖾𝖻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍,𝖾𝗍𝖼.**
+- 🌱 **Enthusiast -** *𝖤𝗍𝗁𝗂𝖼𝖺𝗅 𝖧𝖺𝖼𝗄𝗂𝗇𝗀,𝖶𝖾𝖻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍,𝖾𝗍𝖼.*
 
 <h1></h1>
 
-- 💬 **𝖠𝗌𝗄 𝗆𝖾 𝖠𝖻𝗈𝗎𝗍** **𝖯𝗒𝗍𝗁𝗈𝗇 , 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 , 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 , 𝖩𝖺𝗏𝖺 , 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍**
+- 💬 **Languages -** *HTML, 𝖯𝗒𝗍𝗁𝗈𝗇 , C++ , 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍*
 
 <h1></h1>
 
@@ -26,7 +26,7 @@
 
 <h1></h1>
 
-- ⚡ **𝖥𝖺𝖼𝗍 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾!** </p> **𝖨 𝖺𝗅𝗐𝖺𝗒𝗌 𝗍𝗁𝗂𝗇𝗄 𝗍𝗈 𝖽𝗈 𝗌𝗈𝗆𝖾𝗍𝗁𝗂𝗇𝗀 𝖣𝗂𝖿𝖿𝖾𝗋𝖾𝗇𝗍 𝖺𝗇𝖽 𝖴𝗇𝗂𝗊𝗎𝖾 🎯**
+- ⚡ **𝖥𝖺𝖼𝗍 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾!** </p> *Aspiring Software Engineer | Passionate about Innovative Tech Solutions..!*
 
 ---
 
@@ -38,19 +38,9 @@
 
 <h1>𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾:</h1>
 
-<h2 align="left">𝖯𝖾𝗋𝗌𝗈𝗇𝖺𝗅 𝖢𝗈𝗇𝗍𝖺𝖼𝗍:</h2>
 <a href="https://instagram.com/arsenic_.uwu"> <img src="./Jod/1384063.png" width="50px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/R3X_A1PH4"> <img src="./Jod/2111646.png" width="50px" /></a><br>
 
-
-
-
-
-<h2>𝖬𝗒 𝖦𝗂𝗍𝗁𝗎𝖻 𝖠𝖼𝖼𝗈𝗎𝗇𝗍𝗌:</h2>
-<p><a href="https://github.com/shadow-04"><img src="https://img.shields.io/badge/𝗧𝗘𝗖𝗛𝗡𝗢'𝗫𝗗-blueviolet?style=plastic&logo=github" width="" /></a> • <a href="https://github.com/shadow-04"><img src="https://img.shields.io/badge/Status-Active-Success%20?style=plastic" height="17" /></a>
-<p><a href="https://github.com/Titan-OP"><img src="https://img.shields.io/badge/𝗧𝗜𝗧𝗔𝗡--𝗢𝗣-9cf?style=plastic&logo=github" height="" width="" /></a> • <a href="https://github.com/Titan-OP"><img src="https://img.shields.io/badge/Status-Inactive-lightgrey%20?style=plastic" height="17" /></a>
-<p><a href="https://github.com/SHADOW-1XD"><img src="https://img.shields.io/badge/𝗦𝗛𝗔𝗗𝗢𝗪'𝗫𝗗-orange?style=plastic&logo=github" width="" /></a> • <a href="https://github.com/SHADOW-1XD"><img src="https://img.shields.io/badge/Status-Restricted-red%20?style=plastic" height="17" /></a>
-<p><a href="https://github.com/Techno212"><img src="https://img.shields.io/badge/𝗧𝗘𝗖𝗛𝗡𝗢--𝟮𝟭𝟮-yellow?style=plastic&logo=github" height="" width="" /></a> • <a href="https://github.com/Techno212"><img src="https://img.shields.io/badge/Status-Restricted-red%20?style=plastic" height="17" /></a>
 
 ----
 
