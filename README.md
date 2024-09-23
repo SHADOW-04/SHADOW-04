@@ -47,9 +47,6 @@
 
 
 
-<h2>𝖦𝗋𝗈𝗎𝗉 𝖲𝗎𝗉𝗉𝗈𝗋𝗍:</h2>
-<p><a href="https://t.me/CODESPACEXD"> <img align="left" src="https://img.shields.io/badge/%20-𝗧ᴇʟᴇɢʀᴀᴍ-blue?style=plastic&logo=telegram" height="27" width="120" alt="Https://t.me/CODESPACEXD" /></a></p><br>
-
 
 
 <h2>𝖬𝗒 𝖦𝗂𝗍𝗁𝗎𝖻 𝖠𝖼𝖼𝗈𝗎𝗇𝗍𝗌:</h2>
