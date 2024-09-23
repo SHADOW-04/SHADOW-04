@@ -9,7 +9,7 @@
 ---
 
 
-- 🔭 **𝖨'𝗆 𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝖶𝗈𝗋𝗄𝗂𝗇𝗀 𝖮𝗇** [**𝚴ᴇᴏ ✘‌ 𝚳ᴜsɪᴄ**](https://t.me/VibingSuarBot)
+- 🔭 *𝖨'𝗆 𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝖶𝗈𝗋𝗄𝗂𝗇𝗀 𝖮𝗇 Learning New Languages*
 
 <h1></h1>
 
