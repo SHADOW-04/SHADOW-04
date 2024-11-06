@@ -21,9 +21,7 @@
 
 <h1></h1>
 
-- 📫 **𝖱𝖾𝖺𝖼𝗁 𝗆𝖾 𝖵𝗂𝖺** </p> <a href="https://github.com/SHADOW-04/EMAIL-IDS/blob/main/README.md#my-proton-mail-id-"> <img src="https://img.shields.io/badge/%20-𝗣ʀᴏᴛᴏɴ-blueviolet?style=plastic&logo=Protonmail" height="" width="" alt="ProtonMail" /></a> • 
-                       <a href="https://github.com/SHADOW-04/EMAIL-IDS/blob/main/README.md#my-gmail-id-"> <img src="https://img.shields.io/badge/%20-𝗚ᴍᴀɪʟ-white?style=plastic&logo=gmail" height="" width="" alt="Gmail" /></a>
-
+- 📫 **𝖱𝖾𝖺𝖼𝗁 𝗆𝖾 𝖵𝗂𝖺** </p> <a href="https://github.com/SHADOW-04/EMAIL-IDS/blob/main/README.md#my-proton-mail-id-"> <img src="https://img.shields.io/badge/%20-𝗣ʀᴏᴛᴏɴ-blueviolet?style=plastic&logo=Protonmail" height="" width="" alt="ProtonMail" /></a>
 <h1></h1>
 
 - ⚡ <i> **𝖥𝖺𝖼𝗍 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾 !** </i> </p> *Aspiring Software Engineer | Passionate about Innovative Tech Solutions..!*
